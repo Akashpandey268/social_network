@@ -1,7 +1,7 @@
 # social_network
+** Code Files Are In Master Branch **
 
-
-This project is a simple social network API built with Django and Django Rest Framework.
+This project is a social network API built with Django and Django Rest Framework.
 
 ## Installation Steps
 
