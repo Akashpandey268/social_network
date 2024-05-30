@@ -6,9 +6,7 @@ This project is a social network API built with Django and Django Rest Framework
 ## Installation Steps
 
 1. Clone the repository:
-
-   git clone https://github.com/Akashpandey268/social-network.git
-   
+   and then
    cd social-network
    
 2. Create and activate a virtual environment:
